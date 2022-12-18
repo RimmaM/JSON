@@ -1,0 +1,8 @@
+{
+    "Environment":"Win 11 FF 107",
+    "title":"Название файла в домашнем задании написано через буквы ll",
+    "Steps":"1. открыть домашнее задание GIT Homework 2. Докрутить до строки 26. 3.Найти слово sklls",
+    "Expected Result":"Слово sklls написано через il",
+    "Actual Result":"Слово sklls написано через ll",
+    "link":"link"
+}
